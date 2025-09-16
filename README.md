@@ -2,12 +2,14 @@
 
 Projeto de sistema bancário em Java, desenvolvido para gerenciar usuários e contas bancárias, permitindo operações como saque, depósito e transferência de valores. O sistema utiliza um menu interativo no console e suporta contas correntes e poupança.
 
+
 ---
 
-## Estrutura do Projeto
+### 5️⃣ Recuos de arquivos
+- Para mostrar uma estrutura de pastas, você pode usar **três crases + `text`** para preservar os espaços e a indentação:
 
+```text
 kaiqueBank/
-│
 ├─ src/
 │  ├─ conta/
 │  │  ├─ model/
@@ -24,9 +26,7 @@ kaiqueBank/
 │  │  │  └─ UsuarioService.java
 │  └─ Menu.java
 
-
----
-
+---text
 ## Funcionalidades
 
 O sistema `kaiqueBank` possui as seguintes funcionalidades:
