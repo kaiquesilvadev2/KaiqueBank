@@ -102,7 +102,9 @@ Para executar o sistema KaiqueBank, você precisará:
 1. Clone o repositório:
 
 
-git clone https://github.com/kaiquesilvadev2/KaiqueBank/edit/main/README.md
+ ```bash
+  git clone https://github.com/kaiquesilvadev2/KaiqueBank/edit/main/README.md
+ ````
 
 Abra o projeto em uma IDE (Eclipse, IntelliJ, VS Code).
 
