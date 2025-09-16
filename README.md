@@ -26,7 +26,7 @@ kaiqueBank/
 │  │  │  └─ UsuarioService.java
 │  └─ Menu.java
 
----text
+````
 ## Funcionalidades
 
 O sistema `kaiqueBank` possui as seguintes funcionalidades:
@@ -53,8 +53,6 @@ O sistema `kaiqueBank` possui as seguintes funcionalidades:
 - Sacar valores
 - Depositar valores
 - Transferir valores entre contas
-
----
 
 ## Menu Interativo
 
@@ -88,15 +86,29 @@ O usuário deve digitar o número da opção desejada. Exemplos:
 
 ---
 
+## 📝 Requisitos para Rodar
+
+Para executar o sistema KaiqueBank, você precisará:
+
+- **Java JDK 11 ou superior**: necessário para compilar e executar o código Java.  
+  - Você pode baixar em: [Oracle JDK](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) ou [OpenJDK](https://openjdk.org/).  
+- **IDE de sua preferência**: Eclipse, IntelliJ IDEA, VS Code (com extensão Java).  
+- **Git** (opcional, mas recomendado) para clonar o repositório:  
+  ```bash
+  git clone <link-do-repositório>
+
+
 ## Como Executar
 
 1. Clone o repositório:
 
-```bash
-git clone <link-do-repositório>
+
+git clone https://github.com/kaiquesilvadev2/KaiqueBank/edit/main/README.md
 
 Abra o projeto em uma IDE (Eclipse, IntelliJ, VS Code).
 
 Compile e execute a classe Menu.java.
 
 Siga o menu interativo para criar usuários, contas e realizar operações.
+
+
