@@ -9,23 +9,20 @@ Projeto de sistema bancário em Java, desenvolvido para gerenciar usuários e co
 kaiqueBank/
 │
 ├─ src/
-│ ├─ conta/
-│ │ ├─ model/
-│ │ │ ├─ Cargo.java # Classe que representa o cargo de um usuário
-│ │ │ ├─ Conta.java # Classe abstrata base para contas
-│ │ │ ├─ ContaCorrente.java # Classe que representa uma conta corrente
-│ │ │ ├─ ContaPoupanca.java # Classe que representa uma conta poupança
-│ │ │ └─ Usuario.java # Classe que representa um usuário do sistema
-│ │ │
-│ │ ├─ Menu.java # Classe principal com o menu do sistema
-│ │
-│ ├─ ContaController/
-│ │ └─ ContaController.java # Classe responsável por gerenciar contas
-│ │
-│ ├─ ContaRepository/
-│ │ └─ ContaRepository.java # Classe que armazena e gerencia os dados das contas
-│
-└─ JRE System Library [jre] # Biblioteca padrão do Java
+│  ├─ conta/
+│  │  ├─ model/
+│  │  │  ├─ Cargo.java
+│  │  │  ├─ Conta.java
+│  │  │  ├─ ContaCorrente.java
+│  │  │  └─ ContaPoupanca.java
+│  │  ├─ service/
+│  │  │  └─ ContaService.java
+│  ├─ usuario/
+│  │  ├─ model/
+│  │  │  └─ Usuario.java
+│  │  ├─ service/
+│  │  │  └─ UsuarioService.java
+│  └─ Menu.java
 
 
 ---
