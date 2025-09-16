@@ -92,10 +92,9 @@ Para executar o sistema KaiqueBank, você precisará:
 
 - **Java JDK 11 ou superior**: necessário para compilar e executar o código Java.  
   - Você pode baixar em: [Oracle JDK](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) ou [OpenJDK](https://openjdk.org/).  
-- **IDE de sua preferência**: Eclipse, IntelliJ IDEA, VS Code (com extensão Java).  
-- **Git** (opcional, mas recomendado) para clonar o repositório:  
-  ```bash
-  git clone <link-do-repositório>
+- **IDE de sua preferência**: Eclipse, IntelliJ IDEA ou VS Code (com extensão Java).  
+- **Git instalado na sua máquina**: necessário caso queira clonar o repositório.  
+
 
 
 ## Como Executar
