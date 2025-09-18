@@ -6,7 +6,6 @@ Projeto de sistema bancário em Java, desenvolvido para gerenciar usuários e co
 ---
 
 ### 5️⃣ Recuos de arquivos
-- Para mostrar uma estrutura de pastas, você pode usar **três crases + `text`** para preservar os espaços e a indentação:
 
 ```text
 kaiqueBank/
